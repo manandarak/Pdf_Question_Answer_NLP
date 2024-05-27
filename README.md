@@ -1,2 +1,4 @@
 # Pdf_Question_Answer_NLP
 PDF Question-Answering Application: This Python script leverages PyMuPDF and the Transformers library to extract text from PDFs and answer user questions. The DistilBERT-based model provides accurate responses, offering a seamless solution for extracting information from PDF documents through natural language queries.
+
+The goal is to create a Streamlit application that can upload PDF files, extract text using PyMuPDF, and then allow users to ask questions about the text, with answers provided by a DistilBERT-based question-answering model from the Transformers library. The project involves several key steps, including setting up the application, developing text extraction and question-answering functionality, handling various edge cases, optimizing the code, and preparing for deployment.
